@@ -1,4 +1,4 @@
-baseURL = 'https://homerlab-com-br.pages.dev/'
+baseURL = 'https://homerlab.com.br/'
 languageCode = 'en-us'
 title = 'Homer Lab'
 theme = 'hello-friend'
