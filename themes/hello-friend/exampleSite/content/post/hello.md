@@ -1,5 +1,5 @@
 +++
-title = "Hello Friend"
+title = "Homer Lab Brasil"
 date = "1986-09-17"
 author = "Elliot"
 cover = "img/hello.jpg"
@@ -16,6 +16,3 @@ description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
 > I'm talking to an imaginary person.
 >
 > **— Mr. Robot S01E01**
-
-
-
