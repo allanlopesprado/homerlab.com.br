@@ -2,4 +2,4 @@ baseURL = 'https://homerlab.com.br/'
 languageCode = "br"
 defaultContentLanguage = "br"
 title = 'Homer Lab'
-theme = 'Homer Lab Brasil'
+theme = 'Homer Lab'
