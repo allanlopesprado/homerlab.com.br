@@ -24,7 +24,7 @@ Já era de se imaginar que não estaria disponível... quem nunca se frustrou po
 
 Pois bem, não me dando por vencido e destinado a conseguir um bom nome, eis que me surge uma "brilhante ideia", ou nem tanto assim... unir as duas referencias HomeLab + Simpsons, foi assim que criei o nome [**homerlab.com.br**](https://homerlab.com.br/).
 
-# O que e HomerLab ?
+# O que é HomerLab ?
 
 Aqui irei falar dos mais diferentes assuntos ao que tange Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, automação e os mais diversos assuntos voltados a tecnologia.
 
