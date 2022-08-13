@@ -10,7 +10,7 @@ Me chamo Allan Lopes, sou autor deste blog, nasci em São Bernardo do Campo em j
 
 Ao longo destes 25 anos de envolvimento com o mundo da tecnologia, venho acumulando muita bagagem, sempre pensei em como alcançar mais pessoas com o conhecimento, gosto de ensinar sobre tudo que aprendo, mas principalmente sobre tecnologia, pois sobre minha ótica é um mundo encantador e de vasto conhecimento, onde todos deveríamos estar sempre atentos, pois o futuro sempre traz consigo novos desafios e novas possibilidades.
 
-Aqui você encontrara de tudo um pouco, desde assuntos de fácil compreensão e ampliação, até assuntos mais técnicos e complexos que necessitam de um prévio conhecimento para leitura, interpretação e aplicação.
+Aqui você encontrará de tudo um pouco, desde assuntos de fácil compreensão e ampliação, até assuntos mais técnicos e complexos que necessitam de um prévio conhecimento para leitura, interpretação e aplicação.
 
 # Porque um Blog ?
 
