@@ -28,7 +28,7 @@ Pois bem, não me dando por vencido e destinado a conseguir um bom nome, eis que
 
 Aqui irei falar dos mais diversos assuntos...
 
-> Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, Automação e dentre outros assuntos voltado ao mundo da tecnologia.
+> Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, Automação e outros assuntos voltado ao mundo da tecnologia.
 
 # Agradecimento
 
