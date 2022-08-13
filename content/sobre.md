@@ -14,7 +14,9 @@ Aqui você encontrará um pouco de tudo, desde assuntos de fácil compreensão e
 
 # Porque um Blog ?
 
-Sempre tive vontade de iniciar este projeto para ajudar as pessoas, que assim como eu, estão sempre atrás de informação voltadas ao mundo da tecnologia, sei que existem diversos blogs iguais aos meus, mas a intenção não e competir, mas sim deixo um pouco de mim para o mundo, pois sempre existe espaço para todos, devemos sempre lembrar que somos detentores de nossos próprios conhecimentos, porem...
+Hoje a informação esta na palma de nossas mãos, com um simples click podemos conhecer os mais variados assuntos que estão se passando no mundo, isso e extremamente poderoso, em contra partida, informação de qualidade é sempre difícil de achar e a ideia aqui e unir a facilidade com conteúdo de qualidade.
+
+Falando um pouco sobre a questão particular, sempre tive vontade ajudar as pessoas, que assim como eu estão sempre atrás de informação, sei que existem diversos blogs de tecnologia, porem a intenção aqui não é competir, mas sim deixar um legado, um pouco de mim para o mundo, tendo isso como meta, devemos lembrar que somos detentores de nossos conhecimentos, porem...
 
 > **O conhecimento só torna-se válido quando aplicado, e acima de tudo compartilhado!**
 
