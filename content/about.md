@@ -1,21 +1,29 @@
 +++
-title = "About"
+title = "Sobre"
 date = "2019-01-25"
-author = "Radek"
+author = "Allan Lopes"
 +++
 
-# Hi there
+# Olá, bem vindo ao Homer Lab!
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+Me chamo Allan Lopes, sou autor deste blog, nasci em São Bernardo do Campo em Julho de 1990, minha paixão pela informática se inicia 7 anos, quando tive meu primeiro computador.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+Ao longo destes 25 anos venho acumulando multa bagagem, e pensando em levar o conhecimento adiante, aqui estou, escrevendo meu primeiro blog.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+Sempre tive vontade de iniciar este projeto para que ajudasse ao próximo neste mundo de tecnologia, sei que existem diversos blogs, mas este aqui tem um gostinho especial, pois tem um pouco de mim no que irei deixar aqui para o futuro.
 
-The theme includes:
+> **Conhecimento so é valido se passado para frente!**
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
+Aqui irei falar dos mais diferentes assuntos ao que tange Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação...
 
-So, there you have it... enjoy!
+# Homer Lab: Origem do nome!
+
+Em procure de um nome nada autentico e pouco criativo, fui na opção mais obvia, **homelab.**
+
+Já era de se imaginar que não estaria disponível... quem nunca se frustrou por não conseguir usar aquele sonhado domínio.
+
+> **Se alguma coisa está difícil de ser feita, é porque não é para ser feita" # sóquenão**
+
+Pois bem, não me dando por vencido e destinando a conseguir um bom nome, eis que me surge uma brilhante ideia, ou nem tanto assim... unir as duas referencias HomeLab + Simpsons, foi assim que criei o nome [**homerlab.com.br**](https://homerlab.com.br/).
+
+Obrigado por visitar meu blog, ate próximo post.
