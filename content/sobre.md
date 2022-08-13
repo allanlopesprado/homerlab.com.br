@@ -8,11 +8,13 @@ author = "Allan Lopes"
 
 Me chamo Allan Lopes, sou autor deste blog, nasci em São Bernardo do Campo em julho de 1990, minha paixão pela informática se inicia aos 7 anos, quando tive meu primeiro computador.
 
-Ao longo destes 25 anos de envolvimento com o mundo da tecnologia, venho acumulando muita bagagem, sempre pensei em como alcançar mais pessoas com o conhecimento, gosto de ensinar sobre tudo que aprendo, mas principalmente sobre tecnologia, pois sobre minha ótica é um mundo encantador e de vasto conhecimento, onde todos deveriam conhecer o mínimo possível.
+Ao longo destes 25 anos de envolvimento com o mundo da tecnologia, venho acumulando muita bagagem, sempre pensei em como alcançar mais pessoas com o conhecimento, gosto de ensinar sobre tudo que aprendo, mas principalmente sobre tecnologia, pois sobre minha ótica é um mundo encantador e de vasto conhecimento, onde todos deveríamos estar sempre atentos, pois o futuro sempre traz consigo novos desafios e novas possibilidades.
 
-Aqui você ira encontrar de tudo um pouco, desde assuntos de fácil compreensão e ampliação, onde todos deveríamos nos atentar, até mesmo sobre assuntos mais técnicos e complexos que necessitam de um prévio conhecimento sua aplicação.
+Aqui você encontrara de tudo um pouco, desde assuntos de fácil compreensão e ampliação, até assuntos mais técnicos e complexos que necessitam de um prévio conhecimento para leitura, interpretação e aplicação.
 
-Sempre tive vontade de iniciar este projeto para ajudar as pessoas que assim como eu, estão sempre atrás de informação neste mundo de tecnologia, sei que existem diversos blogs, mas este aqui tem um gostinho especial, pois deixo aqui um pouco de mim para o mundo.
+# Porque escrever um Blog ?
+
+Sempre tive vontade de iniciar este projeto para ajudar as pessoas que assim como eu, estão sempre atrás de informação voltadas ao mundo da tecnologia, sei que existem diversos blogs, mas este aqui tem um gostinho especial, pois deixo aqui um pouco de mim para o mundo.
 
 > **O conhecimento só torna-se válido quando aplicado, e acima de tudo compartilhado!**
 
