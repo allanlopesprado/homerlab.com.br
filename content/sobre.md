@@ -30,7 +30,7 @@ Pois bem, não me dando por vencido e destinado a conseguir um bom nome, eis que
 
 Aqui iremos tratar os diversos temas e assuntos voltados a tecnologia...
 
-> **Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, Automação e outros assuntos voltado ao mundo da tecnologia.**
+> **Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, Automação...**
 
 # Agradecimento
 
