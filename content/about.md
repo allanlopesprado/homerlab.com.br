@@ -32,4 +32,4 @@ Aqui irei falar dos mais diversos assuntos...
 
 # Agradecimento
 
-Por hoje é só, obrigado por visitar meu blog, espero ter respondido algumas perguntas e ter contribuído para com um mundo melhor, deixar um legado e ajudar as futuras gerações é algo que não tem preço, saber que estão carregando um pouco de mim nesta nossa curta jorna já é mais que gratificante, então é isso, obrigado por toda a leitura e nos vemos em breve.
+Por hoje é só, obrigado por visitar meu blog, espero ter respondido algumas perguntas e ter contribuído para com um mundo melhor, deixar um legado e ajudar as futuras gerações é imprescindível, saber que estão carregando um pouco de mim nesta nossa curta jorna já é mais que gratificante, obrigado pela leitura e nos vemos em breve.
