@@ -12,7 +12,7 @@ Ao longo destes 25 anos venho acumulando multa bagagem, e pensando em levar o co
 
 Sempre tive vontade de iniciar este projeto para que ajudasse ao próximo neste mundo de tecnologia, sei que existem diversos blogs, mas este aqui tem um gostinho especial, pois tem um pouco de mim no que irei deixar aqui para o futuro.
 
-> **Conhecimento so é valido se passado para frente!**
+> **Conhecimento é valido se passado para frente!**
 
 Aqui irei falar dos mais diferentes assuntos ao que tange Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação...
 
