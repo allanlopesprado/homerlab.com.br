@@ -8,7 +8,7 @@ author = "Allan Lopes"
 
 Me chamo Allan Lopes, natural de São Bernardo do Campo - SP, nasci em julho de 1990, durante minha adolescência sempre tive contato com tecnologia, época em que Lan House estavam em alta, porem minha real paixão pela tecnologia se inicia em 1997, quando tive meu primeiro computador, fase em que se instalava Windows 95 usando disquete.
 
-Minha jornada de conhecimento se inicia em 1998, exatos 1 ano após ter ganho o computador de presente de meu pai o tentar consertar o Windows que havia corrompido.
+Minha jornada de conhecimento se inicia em 1998, exatos 1 ano após ter ganho o computador de presente de meu pai ao tentar consertar o Windows que havia corrompido.
 
 Lembro que já era tarde da noite, de uma sexta para o sábado, lá estava eu todo empolgado desmontando o computador, porem com medo de que meu pai descobrisse, obviamente era o que iria acontecer.
 
