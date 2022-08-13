@@ -14,7 +14,7 @@ Aqui você encontrará um pouco de tudo, desde assuntos de fácil compreensão e
 
 # Porque um Blog ?
 
-Hoje a informação esta na palma de nossas mãos, com um simples click podemos conhecer os mais variados assuntos que estão se passando no mundo, isso e extremamente poderoso, em contra partida, informação de qualidade é sempre difícil de achar e a ideia aqui e unir a facilidade com conteúdo de qualidade.
+Hoje a informação esta na palma de nossas mãos, com um simples click podemos absorver os mais variados assuntos, **isso e extremamente poderoso**, em contra partida, informação de qualidade é sempre difícil de achar, a ideia aqui é justamente unir facilidade com conteúdo de qualidade.
 
 Falando um pouco sobre a questão particular, sempre tive vontade ajudar as pessoas, que assim como eu estão sempre atrás de informação, sei que existem diversos blogs de tecnologia, porem a intenção aqui não é competir, mas sim deixar um legado, um pouco de mim para o mundo, tendo isso como meta, devemos lembrar que somos detentores de nossos conhecimentos, porem...
 
