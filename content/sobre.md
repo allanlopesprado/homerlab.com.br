@@ -8,7 +8,7 @@ author = "Allan Lopes"
 
 Me chamo Allan Lopes, sou autor deste blog, nasci em São Bernardo do Campo em Julho de 1990, minha paixão pela informática se inicia aos 7 anos, quando tive meu primeiro computador.
 
-Ao longo destes 25 anos venho acumulando muita bagagem, e pensando em levar o conhecimento adiante, aqui estou, escrevendo meu primeiro blog.
+Ao longo destes 25 anos de envolvimento com o mundo da tecnologia, venho acumulando muita bagagem, e sempre pensei em como alcançar mais pessoas com o conhecimento, gosto de ensinar sobre tudo que aprendo, mas principalmente sobre tecnologia, pois sobre minha ótica é um mundo encantador e de vasto conhecimento, com as mais diversas aplicações, desde assuntos de fácil ampliação onde todos deveríamos nos atentar e ter o conhecimento, ate assuntos mais técnicos e complexos que necessitam de um conhecimento mais elevado para compreensão e aplicação.
 
 Sempre tive vontade de iniciar este projeto para ajudar as pessoas que assim como eu estão sempre atras de informação neste mundo de tecnologia, sei que existem diversos blogs, mas este aqui tem um gostinho especial, pois deixo aqui um pouco de mim para o mundo.
 
