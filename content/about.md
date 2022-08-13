@@ -12,7 +12,7 @@ Ao longo destes 25 anos venho acumulando muita bagagem, e pensando em levar o co
 
 Sempre tive vontade de iniciar este projeto para ajudar as pessoas que assim como eu estão sempre atras de informação neste mundo de tecnologia, sei que existem diversos blogs, mas este aqui tem um gostinho especial, pois deixo aqui um pouco de mim para o mundo.
 
-> **Conhecimento é valido se passado para frente!**
+> **O conhecimento só torna-se válido quando aplicado, e acima de tudo compartilhado!**
 
 # Homer Lab: Origem do nome!
 
