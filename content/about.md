@@ -32,4 +32,4 @@ Aqui irei falar dos mais diversos assuntos...
 
 # Agradecimento
 
-Obrigado por visitar meu blog, espero ter respondido algumas perguntas e espero ajudar as futuras pessoas que virão ate aqui atras de informação, ate próximo post.
+Obrigado por visitar meu blog, espero ter respondido algumas perguntas e espero ajudar as futuras pessoas que irão passar por aqui ate aqui atras de informação, ate próximo post.
