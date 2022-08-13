@@ -26,7 +26,9 @@ Pois bem, não me dando por vencido e destinado a conseguir um bom nome, eis que
 
 # O que é HomerLab ?
 
-Aqui irei falar dos mais diferentes assuntos ao que tange Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, automação e os mais diversos assuntos voltados a tecnologia.
+Aqui irei falar dos mais diversos assuntos...
+
+> Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, Automação e dentre outros assuntos voltado ao mundo da tecnologia.
 
 # Agradecimento
 
