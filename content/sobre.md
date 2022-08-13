@@ -26,7 +26,7 @@ Já era de se imaginar que não estaria disponível... quem nunca se frustrou po
 
 > **"Se alguma coisa está difícil de ser feita, é porque não é para ser feita" #sóquenão**
 
-Pois bem, não me dando por vencido e destinado a conseguir um bom nome, eis que me surge uma "brilhante ideia", ou nem tanto assim... unir às duas referencias HomeLab + Simpsons, foi assim que criei o nome [**homerlab.com.br**](https://homerlab.com.br/).
+Pois bem, não me dando por vencido e destinado a conseguir um bom nome, eis que me surge uma "brilhante ideia", ou nem tanto assim... unir às duas referencias HomeLab + Simpsons, foi assim que criei surgiu o nome [**homerlab.com.br**](https://homerlab.com.br/).
 
 # O que é HomerLab ?
 
