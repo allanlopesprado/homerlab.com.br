@@ -12,9 +12,9 @@ Ao longo destes 25 anos de envolvimento com o mundo da tecnologia, venho acumula
 
 Aqui você encontrara de tudo um pouco, desde assuntos de fácil compreensão e ampliação, até assuntos mais técnicos e complexos que necessitam de um prévio conhecimento para leitura, interpretação e aplicação.
 
-# Porque escrever um Blog ?
+# Porque um Blog ?
 
-Sempre tive vontade de iniciar este projeto para ajudar as pessoas que assim como eu, estão sempre atrás de informação voltadas ao mundo da tecnologia, sei que existem diversos blogs, mas este aqui tem um gostinho especial, pois deixo aqui um pouco de mim para o mundo.
+Sempre tive vontade de iniciar este projeto para ajudar as pessoas, que assim como eu, estão sempre atrás de informação voltadas ao mundo da tecnologia, sei que existem diversos blogs com o meu, deixo um pouco de mim para o mundo, devemos lembrar que somos detentores de nossos próprios conhecimentos, porem...
 
 > **O conhecimento só torna-se válido quando aplicado, e acima de tudo compartilhado!**
 
