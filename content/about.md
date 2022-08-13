@@ -28,8 +28,8 @@ Pois bem, não me dando por vencido e destinado a conseguir um bom nome, eis que
 
 Aqui irei falar dos mais diversos assuntos...
 
-> Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, Automação e outros assuntos voltado ao mundo da tecnologia.
+> **Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, Automação e outros assuntos voltado ao mundo da tecnologia.**
 
 # Agradecimento
 
-Obrigado por visitar meu blog, espero ter respondido algumas perguntas e espero ajudar as futuras pessoas que irão passar por aqui ate aqui atras de informação, ate próximo post.
+Por hoje é so, obrigado por visitar meu blog, espero ter respondido algumas perguntas e ter contribuído para um mundo melhor, deixar um legado e ajudar as futuras gerações é algo que não tem preço, saber que estão carregando um pouco de mim nesta nossa curta jorna já é mais que gratificante, então é isso, obrigado por toda a leitura e nos vemos em breve.
