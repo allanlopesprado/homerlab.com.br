@@ -25,7 +25,7 @@ Inclusive lembro de uma cena icônica, que nas instruções dadas por telefone:
 
 Hoje me lembro de tudo que passei com muito carinho, pois soube a partir daquele dia em diante qual seria a profissão que exerceria e a jornada que se iniciaria.
 
-# Porque um Blog ?
+# Porque um Blog?
 
 Ao longo destes mais de 25 anos de envolvimento com o mundo da tecnologia, venho acumulando muita bagagem, sempre pensei em como alcançar mais pessoas com o conhecimento, gosto de ensinar sobre tudo que aprendo, mas principalmente sobre tecnologia.
 
@@ -37,22 +37,22 @@ Sempre tive vontade de ajudar as pessoas, que assim como eu estão sempre atrás
 
 > O conhecimento só torna-se válido quando aplicado, e acima de tudo compartilhado!
 
-# HomerLab: Origem do nome!
+# Origem do nome!
 
-Na procura de um nome nada autentico e pouco criativo, a opção mais obvia, **homelab.**
+Na pratica um HomeLab é um ambiente de teste em nosso casa para que conseguimos estudar, praticar e testar os mais variados recursos e ferramentas.
 
-Já era de se imaginar que não estaria disponível... quem nunca se frustrou por não conseguir usar aquele sonhado domínio.
+O nome em si é muito bacana e foi a opção mais obvia de procura, **homelab** porem já era esperado que o domínio não estaria disponível, quem nunca se frustrou por não conseguir usar aquele sonhado nome para seu site não é mesmo ?
 
 > "Se alguma coisa está difícil de ser feita, é porque não é para ser feita" #sóquenão
 
-Pois bem, não me dando por vencido e destinado a conseguir um bom nome, eis que me surge uma "brilhante ideia", ou nem tanto assim... unir às duas referencias HomeLab + Simpsons, assim que surgiu o [**homerlab.com.br**](https://homerlab.com.br/).
+Pois bem, não me dando por vencido e destinado a conseguir um bom nome, me surge uma "brilhante ideia", ou nem tanto assim, unir duas referencias HomeLab + Simpsons, e assim surge o nome [**homerlab.com.br**](https://homerlab.com.br/).
 
-# O que é HomerLab ?
+# O que esperar do Blog?
 
-Aqui você encontrará um pouco de tudo, desde assuntos de fácil compreensão, até assuntos mais técnicos e complexos que necessitam de um prévio conhecimento para leitura, interpretação e aplicação, resumindo-se mas não se limitado...
+Aqui você encontrará um pouco de tudo, desde assuntos de fácil compreensão, até assuntos mais técnicos que necessitam de um prévio conhecimento para leitura, interpretação e aplicação, sendo todos eles já vivenciados por mim com, resumindo mas não se limitado ao seguintes tópicos.
 
 > Virtualização, Cloud Computing, DevOps, Infraestrutura, Segurança da Informação, Automação
 
 # Agradecimento
 
-Por hoje é só, obrigado por visitar meu blog, espero ter respondido algumas perguntas e ter contribuído para com um mundo melhor, deixar um legado e ajudar as futuras gerações é imprescindível, saber que estão carregando um pouco de mim nesta nossa curta jorna já é mais que gratificante, obrigado pela leitura e nos vemos em breve.
+Obrigado por visitar meu blog, espero ter respondido algumas perguntas e ter contribuído para com um mundo melhor, deixar um legado e ajudar as futuras gerações é imprescindível, saber que estão carregando um pouco de mim nesta nossa curta jorna já é mais que gratificante, obrigado pela leitura e nos vemos em breve.
