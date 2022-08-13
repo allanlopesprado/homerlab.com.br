@@ -4,7 +4,7 @@ date = "2019-01-25"
 author = "Allan Lopes"
 +++
 
-# Olá, bem vindo ao HomerLab!
+# Olá. Bem-vindo ao HomerLab!
 
 Me chamo Allan Lopes, sou autor deste blog, nasci em São Bernardo do Campo em julho de 1990, minha paixão pela informática se inicia aos 7 anos, quando tive meu primeiro computador.
 
@@ -18,7 +18,7 @@ Sempre tive vontade de iniciar este projeto para ajudar as pessoas, que assim co
 
 > **O conhecimento só torna-se válido quando aplicado, e acima de tudo compartilhado!**
 
-# Homer Lab: Origem do nome!
+# HomerLab: Origem do nome!
 
 Na procura de um nome nada autentico e pouco criativo, a opção mais obvia, **homelab.**
 
