@@ -1,6 +1,6 @@
 +++
 title = "Sobre"
-date = "2019-01-25"
+date = "2022-08-14"
 author = "Allan Lopes"
 +++
 
