@@ -1,5 +1,6 @@
 baseurl = "https://homerlab.com.br"
 languageCode = "br"
+defaultContentLanguage = "br"
 theme = "hugo-theme-hello-friend"
 paginate = 5
 
@@ -30,7 +31,7 @@ paginate = 5
     dateFormatSingle = "02-01-2006"
     dateFormatList = "02-01-2006"
 
-    [languages.en.params.logo]
+    [languages.br.params.logo]
       logoText = "Homer Lab Brasil"
       logoHomeLink = "/"
     # or
@@ -38,8 +39,8 @@ paginate = 5
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
+    [languages.br.menu]
+      [[languages.br.menu.main]]
         identifier = "sobre"
         name = "Sobre"
         url = "/sobre"
@@ -49,7 +50,7 @@ paginate = 5
       #  name = "Mostruário"
       #  url = "/showcase"
 
-      [[languages.en.menu.main]]
+      [[languages.br.menu.main]]
         identifier = "archive"
         name = "Arquivo"
         url = "/archive"
