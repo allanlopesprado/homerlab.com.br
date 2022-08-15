@@ -16,20 +16,19 @@ paginate = 5
 
 [languages]
   [languages.br]
-    title = "Hello Friend"
-    subtitle = "Blog Homerlab Brasil | Homer Lab· Infraestrutura de TI· Virtualização· Cloud Computing · DevOps | Blog sobre Virtualização, Infraestrutura de TI, Cloud Computing e DevOps escrito em Português. Criado e editado por Allan Lopes"
-    keywords = "Blog, Infraestrutura, TI Corporativa, Virtualização, Veeam, Backup, Cloud, Cloud Computing, Cloud Native"
+    title = "Homer Lab Brasil"
+    subtitle = "Blog Homerlab Brasil | Blog sobre Automação, Segurança da Informação, Infraestrutura de TI, Virtualização, Cloud, DevOps"
+    keywords = " Blog sobre Automação, Segurança da Informação, Infraestrutura de TI, Virtualização, Cloud, DevOps"
     copyright = "2021-2022 - Homer Lab Brasil - Allan Lopes"
     menuMore = "Mostrar mais"
     writtenBy = "Escrito por"
     readMore = "Ler mais"
-    readOtherPosts = "Ler outros posts"
-    newerPosts = "Novos posts"
-    olderPosts = "Antigos posts"
-    minuteReadingTime = "min lendo"
-    	  wordCount = "palavras"
-    dateFormatSingle = "02-01-2006"
-    dateFormatList = "02-01-2006"
+    readOtherPosts = "Leia outras postagens"
+    newerPosts = "Novas postagens"
+    olderPosts = "Antigas postagens"
+    minuteReadingTime = "min de leitura"
+    dateFormatSingle = "02/01/2006"
+    dateFormatList = "02/01/2006"
 
     [languages.br.params.logo]
       logoText = "Homer Lab Brasil"
@@ -51,6 +50,6 @@ paginate = 5
       #  url = "/showcase"
 
       [[languages.br.menu.main]]
-        identifier = "archive"
+        identifier = "arquivo"
         name = "Arquivo"
-        url = "/archive"
+        url = "/arquivo"
