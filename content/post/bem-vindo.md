@@ -8,22 +8,32 @@ description = "Me chamo Allan Lopes, natural de São Bernardo do Campo - SP, nas
 
 Me chamo Allan Lopes, natural de São Bernardo do Campo - SP, nasci em julho de 1990. Formado em Gestão em Tecnologia da Informação, trabalhando atualmente como Analista de Infraestrutura Sênior.
 
-Durante minha adolescência sempre tive contato com tecnologia, fase em que Lan House estava em alta, porém minha real paixão pela tecnologia se inicia em 1997, quando tive meu primeiro computador, época em que se instalava Windows 95 usando disquete.
+Durante minha infância em meados de 1997, fase em que Lan House estava em alta, tive a oportunidade de ter meu primeiro computador, foi onde comecei a engatinhar no mundo da tecnologia.
 
-Exato 1 ano após ter meu primeiro computador, se inicia minha jornada de conhecimento, ao tentar arrumar o computador que estava com Windows corrompindo, hoje sei qual era o erro, mas na epoca nao tinha a menor ideia do que tinha acontecido.
+1998 iniciasse minha jornada pelo conhecimento, exato 1 ano apos ter ganho o computador de presente, o mesmo veio a apresentar problema, e como toda criança a curiosidade estava aflorada, pois queria saber o motivo do problema.
 
-Lembro que já era tarde da noite, de uma sexta para o sábado, lá estava eu todo empolgado desmontando o computador mas com medo que meu pai descobrisse, e certamente foi o que aconteceu.
+Lembro que já era tarde da noite, de uma sexta para o sábado, lá estava eu todo empolgado desmontando o computador, quando meu pai entra no quarto e me vê debruçado em cima das peças, logo me questionando, **o que você fez com o computador**?
 
-Ele entra no quarto e me vê debruçado em cima das peças, logo me questionando: **O que você fez com o computador?**
+> Respondo: Quero saber o que há dentro e como funciona!
 
-> Resposta objetiva: Quero saber o que tem dentro e como o computador funciona!
+Não preciso mencionar a dificuldade para tentar concertar. Passado alguns dias quebrando a cabeça e sem muita expectativa de concerto, com a ajuda de um amigo, ficamos por horas em ligação tentando resolver o problema, mas infelizmente não tivemos sucesso, por fim meu pai teve de pagar o concerto e eu levando uma baita bronca.
 
-Não preciso mencionar a guerra ao tentar fazer tudo aquilo funcionar sem ao menos saber por onde começar, passado alguns dias quebrando a cabeça e sem muita expectativa de concerto, com a ajuda de um amigo, ficamos por horas em ligação tentando resolver o problema, porém sem sucesso, por fim meu pai teve de pagar o concerto.
-
-Inclusive lembro de uma cena icônica, nas instruções dadas por telefone:
+Lembro de uma cena icônica, nas instruções dadas por telefone:
 
 > Pressione a tecla F8, literalmente foi o que fiz, apertando as teclas F+8.
 
-Hoje me lembro de tudo que passei com muito carinho, pois soube a partir daquele dia em diante qual seria a profissão que gostaria de exercer e a jornada que ali se iniciaria.
+A partir daquele dia em diante olhei o mundo da tecnologia com outros olhos, o bico da tecnologia havia me mordido, dali em diante soube qual seria a profissão que exerceria e a jornada que se iniciava.
 
-Com passar dos anos cada vez mais fui me envolvendo com tecnologia, passando horas e mais horas na lan house proxima de casa, e ganhando mais e mais conhecimento, pois ajudava gratuitamente o dono com as manutenções dos computadores.
+Com passar dos anos e pouco mais velho, fui adquirindo conhecimento e já ajudava gratuitamente o dono de uma lan house com as manutenções dos computadores, apenas pelo gosto da superação de novos problemas que chagavam ate mim.
+
+Pouco antes de completar 18 anos, já havia me formado em alguns cursos de informática, comecei a trabalhar em uma empresa chamada Tec Business Ltda, que foi muito importante na curva de meu aprendizado, inclusive um forte abraço ao Vagner, se algum dia ler este blog, saiba que me proporcionou muito conhecimento e sou grato por todos os momentos.
+
+Logo após meu primeiro emprego, comecei na faculdade de Gestão de Tecnologia da Informação, me formei 3 anos depois, muita coisa se passou ate hoje, porem o que não mudou foi a paixão pela tecnologia, desde sempre faço muitos e muitos laboratórios em casa(homelab), e sempre estou de olho nas tendencias do mercado para que possa estudar sobre.
+
+Hoje trabalho como Analista de Infraestrutura em uma empresa do ramo imobiliário.
+
+# Agradecimento
+
+Quero agradecer a Deus, pela saúde. Aos meus pais pelos valores. A vida por ensinar que sozinho não chegamos a local algum!
+
+Espero que consiga ajudar a todos que aqui venham a recorrer de alguma forma na jornada do conhecimento. Deixar um legado e saber que estão carregando um pouco do de mim e do que ensino é muito gratificante e prazeroso, obrigado pela leitura e nos vemos em breve.
