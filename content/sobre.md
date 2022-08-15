@@ -1,14 +1,10 @@
 +++
-title = "Sobre"
+title = "Sobre o HomerLab"
 date = "2022-08-14"
 author = "Allan Lopes"
 +++
 
-
-
-# Porquê de um Blog?
-
-Ao longo de mais de 25 anos envolvido com o mundo da tecnologia, aprendi algumas coisas bacanas e venho acumulando muita bagagem, sempre pensei em como alcançar mais pessoas com o conhecimento, tenho gosto de ensinar sobre tudo que aprendo, principalmente se tratando de tecnologia.
+HomerLab foi criado com a intenção de disseminar informação, pois ao longo de mais de 25 anos envolvido com o mundo da tecnologia, aprendi algumas coisas bacanas e venho acumulando muita bagagem, sempre pensei em como alcançar mais pessoas com o conhecimento, tenho gosto de ensinar sobre tudo que aprendo, principalmente se tratando de tecnologia.
 
 Sobre minha ótica: é um mundo encantador, onde todos deveriam estar atentos, pois o futuro traz consigo novos desafios e novas possibilidades, e cada vez mais a tecnologia se fará presente.
 
@@ -18,7 +14,7 @@ Sempre tive vontade de ajudar pessoas, que assim como eu estão sempre atrás de
 
 > O conhecimento só torna-se válido quando aplicado, e acima de tudo compartilhado!
 
-# Origem do nome
+# Origem do nome!
 
 Na pratica um HomeLab é um ambiente de teste em nossa casa para que seja possível estudar, praticar e testar os mais variados recursos e ferramentas.
 
@@ -26,9 +22,9 @@ O nome em si é muito bacana e foi a opção mais obvia de procura, **homelab** 
 
 > "Se alguma coisa está difícil de ser feita, é porque não é para ser feita" #sóquenão
 
-Pois bem, não me dando por vencido e destinado a conseguir um bom nome, me surge uma "brilhante ideia", ou nem tanto assim, unir duas referencias HomeLab + Simpsons, surgindo assim [**homerlab.com.br**](https://homerlab.com.br/).
+Pois bem, não me dando por vencido e destinado a conseguir um bom nome, me surge uma "brilhante ideia", ou nem tanto assim, unir duas referencias Simpsons+HomeLab, surgindo assim [**homerlab.com.br**](https://homerlab.com.br/).
 
-# O que esperar
+# Temas abordados
 
 Aqui você encontrará um pouco de tudo, desde assuntos de fácil compreensão, até assuntos mais técnicos que necessitam de um prévio conhecimento para leitura, interpretação e aplicação, basicamente iremos falar de tudo um pouco.
 
@@ -36,4 +32,4 @@ Aqui você encontrará um pouco de tudo, desde assuntos de fácil compreensão, 
 
 # Agradecimento
 
-Obrigado por visitar meu blog, espero ter respondido algumas perguntas e ter contribuído para com um mundo melhor. Deixar um legado e ajudar as futuras gerações é imprescindível, saber que estão carregando um pouco do conhecimento que passei aqui é muito gratificante, obrigado pela leitura e nos vemos em breve.
+Obrigado por visitar meu blog, espero ter respondido algumas perguntas. Deixar um legado e ajudar as futuras gerações é imprescindível, saber que estão carregando um pouco do conhecimento que passei aqui é muito gratificante, obrigado pela leitura.
