@@ -18,15 +18,19 @@ Durante o próximo ano, foram muitos aprendizados, não existia muitos locais on
 
 Foi ai que tudo começou, na minha cabeça, o problema tinha vinculo com hardware e não com software. Por desconhecimento e pouca experiencia, fui pelo caminho que achei mais logico, comecei desmontando o computador (Não tinha noção alguma do que estava fazendo).
 
-Lembro que meu pai abriu a porta do quarto e questionou o que estava fazendo, expliquei que o computador havia apresentado problema e estava tentando concertar.
+Lembro que meu pai abriu a porta do quarto e me questionou sobre o que estava fazendo, expliquei que o computador havia apresentado problema e estava tentando concertar.
 
-Por falta de conhecimento obtive sucesso, ate tentei com a ajuda de um conhecido por telefone, ficamos por horas em ligação, mas infelizmente não tive sucesso, o motivo era simples, sem conhecimento nada se faz, e para provar o quao pouco eu sabia, ainda me recordo da cena icônica, onde era me solicitado por este conhecido que pressionasse a teclado F8 ao iniciar o Windows.
+Por falta de conhecimento obviamente não consegui nada mais do que um computador totalmente desmontado, ate tentei com a ajuda de um conhecido por telefone, ficamos por horas em ligação, onde ele me passava diversas instruções.
 
-> Pressione a tecla F8, literalmente foi o que fiz, apertando as teclas F+8.
+Inclusive recordo de uma cena irônica, onde era me solicitado pressionar determinada teclada ao iniciar o Windows...
 
-Por fim, meu pai não muito contente, teve de desembolsar uma grana para o concerto, infelizmente seria a ultima vez, pois minha ânsia por conhecimento não me parou por ali.
+> Pressione F8 ao iniciar o boot, literalmente foi o que fiz apertando as teclas F+8.
 
-O que quero dizer com isso, todos temos um inicio, o momento onde começamos a desvendar novos desafios, aprendendo novas habilidades e cometendo alguns erros, aprendi e posso dizer com propriedade, **nunca desista**, por pior que seja a situação, tudo faz parte do processo de evolução do aprendizado.
+Infelizmente não tive sucesso, o motivo era simples, sem conhecimento não conseguimos fazer nada, nem ao menos apertar a tecla F8.
+
+Por fim, meu pai não muito contente, teve de desembolsar uma grana para o concerto, porem não seria a ultima vez, pois minha ânsia por conhecimento não me parou por ali.
+
+O que quero dizer com essa historia, para você que esta começando, tenha em mente que todos temos um ponto de partida, o momento onde começamos a aprender algo novo, conquistando novas habilidades, percorrendo um novo desafio, e gastando horas e mais horas para tentar solucionar algo simples, cometer erros faz parte do jogo e posso dizer com propriedade, mas por pior que seja a situação **nunca desista**, pois o final é sempre recompensador.
 
 # A busca pelo conhecimento
 
