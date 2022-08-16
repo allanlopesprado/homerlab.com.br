@@ -12,7 +12,9 @@ Bem vindo ao homerlab, me chamo Allan Lopes, natural de São Bernardo do Campo -
 
 Durante a infância em meados de 1997, tive a oportunidade de ter meu primeiro computador, foi onde comecei a engatinhar no mundo da tecnologia, conhecendo um pouco do Windows 95/98.
 
-Durante o próximo ano, foram muitos aprendizados, não existia muitos locais onde se achava informação, basicamente tudo era feito na base do erro e acerto, passado um ano em 1998 consegui danificar o sistema operacional do computador, na minha buscar por aprender algo novo.
+Durante o próximo ano, foram muitos aprendizados, não existia muitos locais onde se achava informação, basicamente tudo era feito na base do erro e acerto, o que nos leva ao ano de 1998, quando consegui danificar o sistema operacional do computador,
+
+> Ate que durou bastante, pois usei intensamente aquele computador na busca em aprender algo novo.
 
 Foi ai que tudo começou, pois pela minha logica, o problema tinha vinculo com hardware e não com software. Por desconhecimento pouca experiencia, fui pelo caminha que achei mais logico e comecei desmontando o computador (Não tinha noção alguma do estava fazendo).
 
