@@ -16,7 +16,7 @@ Durante o próximo ano, foram muitos aprendizados, não existia muitos locais on
 
 > Ate que durou bastante, pois usei intensamente aquele computador na busca em aprender algo novo.
 
-Foi ai que tudo começou, na minha cabeça, o problema tinha vinculo com hardware e não com software. Por desconhecimento e pouca experiencia, fui pelo caminho que achei mais logico, comecei desmontando o computador (Não tinha noção alguma do estava fazendo).
+Foi ai que tudo começou, na minha cabeça, o problema tinha vinculo com hardware e não com software. Por desconhecimento e pouca experiencia, fui pelo caminho que achei mais logico, comecei desmontando o computador (Não tinha noção alguma do que estava fazendo).
 
 Lembro que meu pai abriu a porta do quarto e questionou o que estava fazendo, expliquei que o computador havia apresentado problema e estava tentando concertar.
 
