@@ -18,7 +18,7 @@ paginate = 5
   [languages.br]
     title = "Homer Lab Brasil"
     subtitle = "Blog Homerlab Brasil | Blog sobre Automação, Segurança da Informação, Infraestrutura de TI, Virtualização, Cloud, DevOps"
-    keywords = " Blog sobre Automação, Segurança da Informação, Infraestrutura de TI, Virtualização, Cloud, DevOps"
+    keywords = "Automação, Segurança da Informação, Infraestrutura de TI, Virtualização, Cloud, DevOps"
     copyright = "2021-2022 - Homer Lab Brasil - Allan Lopes"
     menuMore = "Mostrar mais"
     writtenBy = "Escrito por"

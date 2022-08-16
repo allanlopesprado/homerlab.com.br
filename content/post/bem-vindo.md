@@ -3,39 +3,45 @@ title = "Olá, Bem-vindo ao HomerLab!"
 date = "2022-08-12"
 author = "Allan Lopes"
 cover = "img/hello.jpg"
-description = "Me chamo Allan Lopes, natural de São Bernardo do Campo - SP, nasci em julho de 1990. Formado em Gestão em Tecnologia da Informação, trabalhando atualmente como Analista de Infraestrutura Sênior..."
+description = "Bem vindo ao homerlab, me chamo Allan Lopes, natural de São Bernardo do Campo - SP, nasci em julho de 1990. Formado em Gestão em Tecnologia da Informação, trabalhando atual...."
 +++
 
-Bem vindo ao meu blog, me chamo Allan Lopes, natural de São Bernardo do Campo - SP, nasci em julho de 1990. Formado em Gestão em Tecnologia da Informação, trabalhando atualmente como Analista de Infraestrutura Sênior.
+Bem vindo ao homerlab, me chamo Allan Lopes, natural de São Bernardo do Campo - SP, nasci em julho de 1990. Formado em Gestão em Tecnologia da Informação, trabalho atualmente como Analista de Infraestrutura Sênior.
 
-# Qual é a minha história?
+# Minha história
 
-Durante minha infância em meados de 1997, fase em que Lan House estava em alta, tive a oportunidade de ter meu primeiro computador, foi onde comecei a engatinhar no mundo da tecnologia.
+Durante a infância em meados de 1997, tive a oportunidade de ter meu primeiro computador, foi onde comecei a engatinhar no mundo da tecnologia, conhecendo um pouco do Windows 95/98.
 
-1998 iniciasse minha jornada pelo conhecimento, exato 1 ano apos ter ganho o computador de presente, o mesmo veio a apresentar problema, e como toda criança a curiosidade estava aflorada, pois queria saber o motivo do problema.
+Durante o próximo ano, foram muitos aprendizados, não existia muitos locais onde se achava informação, basicamente tudo era feito na base do erro e acerto, passado um ano em 1998 consegui danificar o sistema operacional do computador, na minha buscar por aprender algo novo.
 
-Lembro que já era tarde da noite, de uma sexta para o sábado, lá estava eu todo empolgado desmontando o computador, quando meu pai entra no quarto e me vê debruçado em cima das peças, logo me questionando, o que você fez com o computador?
+Foi ai que tudo começou, pois pela minha logica, o problema tinha vinculo com hardware e não com software. Por desconhecimento pouca experiencia, fui pelo caminha que achei mais logico e comecei desmontando o computador (Não tinha noção alguma do estava fazendo).
 
-> Respondo: Quero saber o que há dentro e como funciona!
+Lembro que meu pai abriu a porta do quarto e questionou o que estava fazendo, expliquei que o computador havia apresentado problema e estava tentando concertar.
 
-Não preciso mencionar a dificuldade para tentar concertar. Passado alguns dias quebrando a cabeça e sem muita expectativa de concerto, com a ajuda de um amigo, ficamos por horas em ligação tentando resolver o problema, mas infelizmente não tivemos sucesso, por fim meu pai teve de pagar o concerto e eu levando uma baita bronca.
-
-Lembro de uma cena icônica, nas instruções dadas por telefone:
+Por falta de conhecimento obtive sucesso, ate tentei com a ajuda de um conhecido por telefone, ficamos por horas em ligação, mas infelizmente não tive sucesso, o motivo era simples, sem conhecimento nada se faz, e para provar o quao pouco eu sabia, ainda me recordo da cena icônica, onde era me solicitado por este conhecido que pressionasse a teclado F8 ao iniciar o Windows.
 
 > Pressione a tecla F8, literalmente foi o que fiz, apertando as teclas F+8.
 
-A partir daquele dia em diante olhei o mundo da tecnologia com outros olhos, o bico da tecnologia havia me mordido, dali em diante soube qual seria a profissão que exerceria e a jornada que se iniciava.
+Por fim, meu pai não muito contente, teve de desembolsar uma grana para o concerto, infelizmente seria a ultima vez, pois minha ânsia por conhecimento não me parou por ali.
 
-Com passar dos anos e pouco mais velho, fui adquirindo conhecimento e já ajudava gratuitamente o dono de uma lan house com as manutenções dos computadores, apenas pelo gosto da superação de novos problemas que chagavam ate mim.
+O que quero dizer com isso, todos temos um inicio, o momento onde começamos a desvendar novos desafios, aprendendo novas habilidades e cometendo alguns erros, aprendi e posso dizer com propriedade, **nunca desista**, por pior que seja a situação, tudo faz parte do processo de evolução do aprendizado.
 
-Pouco antes de completar 18 anos, já havia me formado em alguns cursos de informática, comecei a trabalhar em uma empresa chamada Tec Business Ltda, que foi muito importante na curva de meu aprendizado, inclusive um forte abraço ao Vagner, se algum dia ler este blog, saiba que me proporcionou muito conhecimento e sou grato por todos os momentos.
+# A busca pelo conhecimento
 
-Logo após meu primeiro emprego, comecei na faculdade de Gestão de Tecnologia da Informação, me formei 3 anos depois, muita coisa se passou ate hoje, porem o que não mudou foi a paixão pela tecnologia, desde sempre faço muitos e muitos laboratórios em casa(homelab), e sempre estou de olho nas tendencias do mercado para que possa estudar sobre.
+Desde o primeiro dia em que tive contato com um computador e com o mundo da tecnologia, me surpreendi pelas possibilidades que ali existiam, em algum momento que não me recordo com exatidão, a paixão falou mais alto e daquele momento em diante ficar no computador virou um hobby, aprender mais sobre tecnologia um vicio incessante, com o passar do tempo ficava cada vez mais obvio qual seria meu futuro.
 
-Hoje trabalho como Analista de Infraestrutura em uma empresa do ramo imobiliário.
+Ao longo dos anos, obtive conhecimento de diversas fontes, internet, revistas, amigos, inclusive nesta época a internet era discada, meus pais me permitiam navegar após a meia noite, onde se gastava 1 pulso, foi assim por longos anos ate a chegada da banda larga.
+
+Com o passar do tempo, já na adolescia, ajudava gratuitamente uma lan house, colocando a prova o conhecimento e buscando novos desafios, muitas horas gastas na frente do computador, varias problemas vivenciados, para que pudesse desenvolver cada vez mais minhas habilidades.
+
+Pouco antes de completar 18 anos, já havia me formado em alguns cursos de tecnologia, foi quando consegui meu primeiro trabalho em uma empresa chamada Tec Business, inclusive um forte abraço ao Vagner, se em algum momento você ler este blog, saiba que faz parte disso, pois deu minha primeira oportunidade e me proporcionou um conhecimento inestimável.
+
+Junto com o primeiro trabalho, também veio a necessidade de aprimoramento, foi o inicio da faculdade de Gestão em Tecnologia da Informação, onde pude me formar 3 anos mais tarde, daquela época ate os dias atuais, já se passaram muitas horas de estudo e dedicação, muitos homelabs e algumas empresas na carteira, atualmente com o cargo de Analista de Infraestrutura Sênior em uma holding, comando todo o setor de tecnologia do grupo.
+
+Sempre fui autodidata e hoje me sinto confortável para ensinar o que aprendi, para que entendam um pouco do blog convido todos a uma breve leitura [**sobre o homerlab.com.br!**](https://homerlab.com.br/sobre)
 
 # Agradecimento
 
-Quero agradecer a Deus, pela saúde. Aos meus pais pelos valores. A vida por ensinar que sozinho não chegamos a local algum!
+Agradeço a Deus pela saúde! Agradeço a meus pais pelos valores ensinados! Agradeço a vida por mostrar que sozinho não chegamos a lugar nenhum!
 
-Espero que consiga ajudar a todos que aqui venham a recorrer de alguma forma na jornada do conhecimento. Deixar um legado e saber que estão carregando um pouco do de mim e do que ensino é muito gratificante e prazeroso, obrigado pela leitura e nos vemos em breve.
+Espero ajudar a que recorrer ao blog como ferramenta de pesquisa e conhecimento, é muito gratificante saber que estou ajudando alguém em algum lugar, obrigado pela leitura e nos vemos em breve.
